@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniwave.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/TestPlugins",
+        "fileSize": 38529,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed, KillerDogeEmpire, Enimax, Chokerman"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 35,
+        "internalName": "ExampleProvider",
+        "description": "Watch Aniwave/9anime, also check out Enimax's app/chrome extension, He was a big help for fixing the extension, here is the link https://github.com/enimax-anime/enimax",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/TestPlugins/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    }
+]
